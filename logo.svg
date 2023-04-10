@@ -1,0 +1,37 @@
+<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Letra R em azul -->
+  <rect x="20" y="20" width="10" height="80" fill="#007bff"/>
+  <rect x="30" y="20" width="70" height="10" fill="#007bff"/>
+  <rect x="90" y="30" width="10" height="30" fill="#007bff"/>
+  <rect x="30" y="50" width="70" height="10" fill="#007bff"/>
+  <rect x="20" y="60" width="10" height="30" fill="#007bff"/>
+  <rect x="30" y="80" width="70" height="10" fill="#007bff"/>
+
+  <!-- Letra E em roxo -->
+  <rect x="130" y="20" width="50" height="10" fill="#560bad"/>
+  <rect x="130" y="30" width="10" height="40" fill="#560bad"/>
+  <rect x="140" y="50" width="40" height="10" fill="#560bad"/>
+  <rect x="130" y="70" width="50" height="10" fill="#560bad"/>
+  <rect x="130" y="90" width="50" height="10" fill="#560bad"/>
+
+  <!-- Letra N em azul -->
+  <rect x="220" y="20" width="10" height="80" fill="#007bff"/>
+  <rect x="230" y="20" width="70" height="10" fill="#007bff"/>
+  <rect x="290" y="30" width="10" height="30" fill="#007bff"/>
+  <rect x="230" y="50" width="70" height="10" fill="#007bff"/>
+  <rect x="220" y="60" width="10" height="30" fill="#007bff"/>
+  <rect x="230" y="80" width="70" height="10" fill="#007bff"/>
+
+  <!-- Letra Z em roxo -->
+  <rect x="340" y="20" width="10" height="80" fill="#560bad"/>
+  <rect x="350" y="20" width="30" height="10" fill="#560bad"/>
+  <rect x="380" y="30" width="10" height="30" fill="#560bad"/>
+  <rect x="350" y="50" width="30" height="10" fill="#560bad"/>
+  <rect x="340" y="80" width="10" height="30" fill="#560bad"/>
+  <rect x="350" y="80" width="30" height="10" fill="#560bad"/>
+  <rect x="380" y="90" width="10" height="20" fill="#560bad"/>
+
+  <!-- Letra O em roxo -->
+  <circle cx="450" cy="60" r="30" fill="#560bad"/>
+  <circle cx="450" cy="60" r="20" fill="#ffffff"/>
+</svg>
